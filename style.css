@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{
+    background-image: url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    height: 100vh;
+    background-size: cover;
+}
+
+.store-header{
+    background-image:url("https://images.unsplash.com/photo-1600456899121-68eda5705257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80") ;
+}
+.store-name{
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 30px;
+    text-align: left;
+}
+
+.mondal{
+    height: 200px;
+    padding: 20px;
+}
+.mondakki-image{
+    
+    height: 2px;
+    padding: 12px;
+}
+
+.mandakki-capacity{
+    margin: 5px;
+    width: 220px;
+    padding: 5px;
+}
+
+.item-text{
+    text-align: center;
+    padding: 5px;
+    font-family: Baloo Tammudu 2 ;
+}
